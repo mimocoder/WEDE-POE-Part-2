@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Home | Hashtag SA Unite</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Hashtag SA Unite</h1>
+    <p>Serving our communities with love</p>
+    <nav>
+      <a href="Home%20Page.html" aria-current="page">Home</a>
+      <a href="About%20us%20Page.html">About us</a>
+      <a href="Services%20Page.html">Services</a>
+      <a href="Enquiry%20Page.html">Enquiries</a>
+      <a href="Contact%20Page.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Empowering the youth</h2>
+    <p>This is the work this community does for the people.</p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHVK4anVlMdIWktMtkcWOiFbmyCvljQX7_qUfjzvw1bQ&s=10" alt="Hashtag SA Unite community banner">
+    <p>We do our work to help those who are in need. This is to build better communities for our people and our children.</p>
+    <p><strong>Explore our site to learn more about what we do.</strong></p>
+  </main>
+
+  <footer>
+    <p>&copy; Hashtag SA Unite. All rights reserved.</p>
+  </footer>
+</body>
+</html>
