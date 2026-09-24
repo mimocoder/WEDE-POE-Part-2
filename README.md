@@ -6,11 +6,11 @@ The website is a 5 pages site that is for a non profit organization called Hasht
 
 Files
 
-•	Home_Page
-•	About_us_Page
-•	Services_Page
-•	Enquiry_Page
-•	Contact_Page
+*	Home_Page
+* About_us_Page
+*	Services_Page
+*	Enquiry_Page
+*	Contact_Page
 
 Design
 A palette choice of the following was made lemon chiffon (#fffacd), corn silk (#fff8dc) and off-white (#fdfcf6). The colors are stored at the top of the style.css document so that if changes are needed they can be made without confusion. The fonts used were Aptos, Arial Nova, Calibri, Arial, sans-serif. These font combination ensure consistency though out the website and keep an elegant look. The hero on home has an overlay that was made with a photo from the organization Hashtag SA Unite.
