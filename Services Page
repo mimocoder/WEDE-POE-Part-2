@@ -11,11 +11,11 @@
     <h1>Services</h1>
     <p>Serving our communities with love</p>
     <nav>
-      <a href="Home%20Page.html">Home</a>
-      <a href="About%20us%20Page.html">About us</a>
-      <a href="Services%20Page.html" aria-current="page">Services</a>
-      <a href="Enquiry%20Page.html">Enquiries</a>
-      <a href="Contact%20Page.html">Contact</a>
+      <a href="Home_Page.html">Home</a>
+      <a href="About_us_Page.html">About us</a>
+      <a href="Services_Page.html" aria-current="page">Services</a>
+      <a href="Enquiry_Page.html">Enquiries</a>
+      <a href="Contact_Page.html">Contact</a>
     </nav>
   </header>
 
