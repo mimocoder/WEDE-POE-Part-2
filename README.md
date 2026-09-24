@@ -5,6 +5,7 @@ Hashtag SA Unite Website
 The website is a 5 pages site that is for a non profit organization called Hashtag SA Unite. They are a non-profit organization that aims to help uplift people in difficult circumstances and bring them into stable growth. 
 
 Files
+
 •	Home_Page
 •	About_us_Page
 •	Services_Page
